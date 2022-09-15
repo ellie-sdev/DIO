@@ -1,4 +1,4 @@
-# Repositório de Aprendizagem DIO
+# Repositório de Aprendizagem DIO :blue_book:
 Primeiro Repositório Público criado para organização e acompanhamento de aprendizagem em Bootcamps da DIO.
 
 ## Pastas
