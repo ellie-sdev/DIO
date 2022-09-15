@@ -1,0 +1,1 @@
+Git é sistema de versionamento de códigos distribuídos.
