@@ -1,4 +1,4 @@
-## Atalhos de teclado para auxiliar no Git Bash:
+## Atalhos do teclado para auxiliar no Git Bash:
 
 CTRL + Insert (copia)
 SHIFT + Insert (cola)
@@ -40,6 +40,3 @@ git push origin master (empurra o rep local para o rep remoto)
 git push origin main (empurra o rep local para o rep remoto)
 git pull origin main (puxa os dados do rep remoto para o rep local)
 git pull origin master (puxa os dados do rep remoto para o rep local)
-
-
-
